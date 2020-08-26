@@ -117,4 +117,3 @@ Output from `df` now looks like this:
 * **prefixMultiplier**: convert `size`, `used` and `available` values from `KiB` to `MiB`, `GiB`, `PiB`, `EiB`, `ZiB`, `YiB`, `MB`, `GB`, `PB`, `EB`, `ZB`, `YB`;
 * **isDisplayPrefixMultiplier**: if `true`, values for `size`, `used` and `available` are converted to strings and `prefixMultiplier` is displayed (see example above).
 * **precision**: round `size`, `used` and `available` values to `precision` decimal digits.
-test
